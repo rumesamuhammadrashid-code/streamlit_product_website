@@ -1,2 +1,2 @@
 # streamlit_product_website
-This is basic streamlit website  for tech
+This is basic streamlit website  for tech product
